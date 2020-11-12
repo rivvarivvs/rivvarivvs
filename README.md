@@ -1,5 +1,5 @@
-<h3>Hi there! 👋</h3>
-<hr>
+<h1 style='text-align: center'>Hi there! 👋</h1>
+
 <p>🌱 My name is <strong>Rivva</strong></p>
 <p>💻 I'm an aspiring backend developer</p>
 <p>🏙 Currently based in <strong>Lisbon, Portugal</strong></p>
