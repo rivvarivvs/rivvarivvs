@@ -1,23 +1,10 @@
-###   Hi there! 👋
+<h3>Hi there! 👋</h3>
 <hr>
-🌱 My name is Rivva
-💻 I'm an aspiring backend developer
-🏙 Currently based in Lisbon, Portugal
-🗯️ If you want to reach me, you can do so on <a href='https://twitter.com/rivva_a'><img src='https://i.imgur.com/wWzX9uB.png'></a>.
+<p>🌱 My name is <strong>Rivva</strong></p>
+<p>💻 I'm an aspiring backend developer</p>
+<p>🏙 Currently based in <strong>Lisbon, Portugal</strong></p>
+<p>🗯️ If you want to reach me, you can do so on <a href='https://twitter.com/rivva_a'><img src='https://i.imgur.com/wWzX9uB.png'></a>.</p>
 
+<hr>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=rivvarivvs)](https://github.com/anuraghazra/github-readme-stats)
-<!--
-**rivvarivvs/rivvarivvs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivvarivvs)
