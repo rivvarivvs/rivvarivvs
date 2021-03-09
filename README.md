@@ -1,12 +1,12 @@
 ## riva's here! 👋 who am i?
 
-I'm an retired History student turned into a **backend web developer**, by the *magical ways of self-teaching*. 
+i'm an retired History student turned into a **backend web developer**, by the *magical ways of self-teaching*. 
 
 ## what is there to know about me? 📚 
   
-Early in my life I developed my passion for computers and mathematical problems. Soon I left them to dedicate myself into the ways of analysing our society. It was in the last year that I decided to leave behind my school curriculum: it was then time to see if I was still as *in love with the world of computers*.
+early in my life i developed my passion for computers and mathematical problems. soon I left them to dedicate myself into the ways of analysing our society. it was in the last year that i decided to leave behind my school curriculum: it was then time to see if i was still as *in love with the world of computers*.
 
-Through the next 9 months, I developed not only code and apps but also my **love for learning an for the world of web development**.
+Through the next 9 months, I developed not only code and apps but also my ***love for learning an for the world of web development***.
 
 ## what have i done? ✨ 
 
@@ -14,7 +14,7 @@ Through the next 9 months, I developed not only code and apps but also my **love
 | 🧪 comfortable with  | 🤸‍♀️ had fun with  | 🖍️ shooting my first shots at |
 | :---:             |    :----:     |          :---:             |
 | javascript        | git           | jest                       |
-| nodeJS            | mongoDB       | typeScript                 |
+| nodeJS            | mongoDB       | typescript                 |
 | express           |               |                            |
 
 ## where can you find me? 💌  
