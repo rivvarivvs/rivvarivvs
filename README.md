@@ -14,7 +14,7 @@ through the next 9 months, I developed not only code and apps but also my ***lov
 | 🧪 comfortable with  | 🤸‍♀️ had fun with  | 🖍️ shooting my first shots at |
 | :---:             |    :----:     |          :---:             |
 | javascript        | git           | jest                       |
-| nodeJS            | mongoDB       | typescript                 |
-| express           | typescript    | github actions             |
+| nodeJS            | mongoDB       | github actions             |
+| express           | typescript    |                            |
 
 ## where can you find me? 💌  
