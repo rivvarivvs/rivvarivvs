@@ -1,10 +1,9 @@
-<h1 style='text-align: center'>Hi there! 👋</h1>
+### hi there 👋 riva's here!
 
-<p>🌱 My name is <strong>Riva</strong></p>
-<p>💻 I'm an aspiring backend developer</p>
-<p>🏙 Currently based in <strong>Lisbon, Portugal</strong></p>
-<p>🗯️ If you want to reach me, you can do so on <a href='https://twitter.com/rivva_a'><img src='https://i.imgur.com/wWzX9uB.png'></a>.</p>
+I'm an retired History student turned into a backend web developer, by the *magical ways of self-teaching*. 
+  
+Early in my life I developed my passion for computers and mathematical problems. Soon I left them to dedicate myself into the ways of analysing our society. It was in the last year that I decided to leave behind my school curriculum. It was then time to see if I was still as in love with the world of computers.
 
-<hr>
+Through the next 9 months, I developed not only code and apps but also my **love for learning an for the world of web development**.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rivvarivvs)
+
