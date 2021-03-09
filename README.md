@@ -10,8 +10,8 @@ Through the next 9 months, I developed not only code and apps but also my **love
 
 ## what have i done? ✨ 
 
-## which technology have i been using? ⌨️ 
-| comfortable with  | had fun with  | shooting my first shots at |
+## which technology have i been using?  
+| 🧪 comfortable with  | 🤸‍♀️ had fun with  | 🖍️ shooting my first shots at |
 | :---:             |    :----:     |          :---:             |
 | javascript        | git           | jest                       |
 | nodeJS            | mongoDB       | typeScript                 |
