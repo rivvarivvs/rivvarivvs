@@ -19,7 +19,8 @@ through the next 9 months, I developed not only code and apps but also my ***lov
 
 ## where can you find me? 💌  
 
-|![Asset 1](https://user-images.githubusercontent.com/69391587/110659488-89c19f00-81ba-11eb-8a5e-638a3db548c5.png)|![5ca98c73b2bb7a02bf8350933c7ca443(1)](https://user-images.githubusercontent.com/69391587/110660815-d9ed3100-81bb-11eb-8aaa-333771dc6779.png)| |
+|[![birb](https://user-images.githubusercontent.com/69391587/110664946-cb087d80-81bf-11eb-8fef-7d239d0f790c.png)](https://twitter.com/rivva_a)|[![devlala](https://user-images.githubusercontent.com/69391587/110664943-ca6fe700-81bf-11eb-811a-ce04acac173e.png)](https://dev.to/rivvarivvs)|[![tinoni](https://user-images.githubusercontent.com/69391587/110664921-c5129c80-81bf-11eb-96f9-624b9d0c91b2.png)](<rivvarivvs@gmail.com>)|
 | :---:             |    :----:     |          :---:         |
 
-![DEVLOGO125cm](https://user-images.githubusercontent.com/69391587/110662285-43ba0a80-81bd-11eb-892c-f19922df3d8f.png)
+
+
