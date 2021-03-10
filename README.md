@@ -9,6 +9,8 @@ early in my life i developed my passion for computers and mathematical problems.
 through the next 9 months, I developed not only code and apps but also my ***love for learning an for the world of web development***.
 
 ## what have i done? ✨ 
+[![lightasd](https://user-images.githubusercontent.com/69391587/110693728-a6bc9900-81df-11eb-9e84-9ada11ab55d1.png)](https://github.com/rivvarivvs/ticketmarket)
+
 
 ## which technology have i been using?  
 | 🧪 comfortable with  | 🤸‍♀️ had fun with  | 🖍️ shooting my first shots at |
@@ -21,6 +23,5 @@ through the next 9 months, I developed not only code and apps but also my ***lov
 
 |[![birb](https://user-images.githubusercontent.com/69391587/110664946-cb087d80-81bf-11eb-8fef-7d239d0f790c.png)](https://twitter.com/rivva_a)|[![devlala](https://user-images.githubusercontent.com/69391587/110664943-ca6fe700-81bf-11eb-811a-ce04acac173e.png)](https://dev.to/rivvarivvs)|[![tinoni](https://user-images.githubusercontent.com/69391587/110664921-c5129c80-81bf-11eb-96f9-624b9d0c91b2.png)](mailto:rivvarivvs@gmail.com)|
 | :---:             |    :----:     |          :---:         |
-
 
 
