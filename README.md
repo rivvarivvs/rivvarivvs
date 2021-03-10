@@ -9,7 +9,9 @@ early in my life i developed my passion for computers and mathematical problems.
 through the next 9 months, I developed not only code and apps but also my ***love for learning an for the world of web development***.
 
 ## what have i done? ✨ 
-[![lightasd](https://user-images.githubusercontent.com/69391587/110693728-a6bc9900-81df-11eb-9e84-9ada11ab55d1.png)](https://github.com/rivvarivvs/ticketmarket)
+[![ticketmarket](https://user-images.githubusercontent.com/69391587/110693728-a6bc9900-81df-11eb-9e84-9ada11ab55d1.png)](https://github.com/rivvarivvs/ticketmarket)
+[![devcheatsheet](https://user-images.githubusercontent.com/69391587/110695415-c359d080-81e1-11eb-9f9d-e1818a0a7e83.png)](https://github.com/rivvarivvs/The-Developer-s-Cheatsheet)
+
 
 
 ## which technology have i been using?  
