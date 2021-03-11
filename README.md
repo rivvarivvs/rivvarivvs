@@ -16,6 +16,11 @@ through the next 9 months, I developed not only code and apps but also my ***lov
 | ![TICKETMARKET](https://github.com/rivvarivvs/ticketmarket) | a market-place to sell and buy secondhand tickets           | javascript, nodeJS, express, mongodb|
 | ![THE DEVELOPER'S CHEATSHEET](https://github.com/rivvarivvs/The-Developer-s-Cheatsheet)           | an app that allows you to post and access cheatsheets to documentation       | typescript, nodeJS, express, kubernetes, docker, github actions, digital ocean             |
 
+#### future projects 📅 
+| 🏷️  name  | 📓  description  | ⚙️ tech-stack |
+| :---:             |    :----:     |          :---:             |
+| ![STREAMIT](https://github.com/rivvarivvs/streaming-srv) | a streaming app           | still to be decided|
+
 
 ## which technology have i been using?  
 | 🧪 comfortable with  | 🤸‍♀️ had fun with  | 🖍️ shooting my first shots at |
