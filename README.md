@@ -9,8 +9,12 @@ early in my life i developed my passion for computers and mathematical problems.
 through the next 9 months, I developed not only code and apps but also my ***love for learning an for the world of web development***.
 
 ## what have i done? ✨ 
-[![ticketmarket](https://user-images.githubusercontent.com/69391587/110697515-5e53aa00-81e4-11eb-8e90-12f1ff7f6fe6.png)](https://github.com/rivvarivvs/ticketmarket)
-[![devcheatsheet](https://user-images.githubusercontent.com/69391587/110695415-c359d080-81e1-11eb-9f9d-e1818a0a7e83.png)](https://github.com/rivvarivvs/The-Developer-s-Cheatsheet)
+
+
+| 🏷️  name  | 📓  description  | ⚙️ webstack |
+| :---:             |    :----:     |          :---:             |
+| ![TICKETMARKET](https://github.com/rivvarivvs/ticketmarket) | a market-place to sell and buy secondhand tickets           | javascript, nodeJS, express, mongodb|
+| ![THE DEVELOPER'S CHEATSHEET](https://github.com/rivvarivvs/The-Developer-s-Cheatsheet)           | an app that allows you to post and access cheatsheets to documentation       | typescript, nodeJS, express, kubernetes, docker             |
 
 
 ## which technology have i been using?  
