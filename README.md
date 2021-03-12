@@ -13,13 +13,13 @@ through the next 9 months, I developed not only code and apps but also my love f
 
 | 🏷️  name  | 📓  description  | ⚙️ tech-stack |
 | :---:             |    :----:     |          :---:             |
-| **![ticketmarket](https://github.com/rivvarivvs/ticketmarket)** | a market-place to sell and buy secondhand tickets           | javascript, nodeJS, express, mongodb|
-| **![the developer's cheatsheet](https://github.com/rivvarivvs/The-Developer-s-Cheatsheet)**           | an app that allows you to post and access cheatsheets to documentation       | typescript, nodeJS, express, kubernetes, docker, github actions, digital ocean             |
+| **[ticketmarket](https://github.com/rivvarivvs/ticketmarket)** | a market-place to sell and buy secondhand tickets           | javascript, nodeJS, express, mongodb|
+| **[the developer's cheatsheet](https://github.com/rivvarivvs/The-Developer-s-Cheatsheet)**           | an app that allows you to post and access cheatsheets to documentation       | typescript, nodeJS, express, kubernetes, docker, github actions, digital ocean             |
 
 #### in early development 📅 
 | 🏷️  name  | 📓  description  | ⚙️ tech-stack |
 | :---:             |    :----:     |          :---:             |
-| **![streamit](https://github.com/rivvarivvs/streaming-srv)** | a small implementation of a streaming service           | react, typescript, nodeJS, express, mongoDB|
+| **[streamit](https://github.com/rivvarivvs/streaming-srv)** | a small implementation of a streaming service           | react, typescript, nodeJS, express, mongoDB|
 
 
 ## which technology have i been using?  
