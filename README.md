@@ -19,7 +19,7 @@ through the next 9 months, I developed not only code and apps but also my love f
 #### future projects 📅 
 | 🏷️  name  | 📓  description  | ⚙️ tech-stack |
 | :---:             |    :----:     |          :---:             |
-| **![streamit](https://github.com/rivvarivvs/streaming-srv)** | a streaming app           | still to be decided|
+| **![streamit](https://github.com/rivvarivvs/streaming-srv)** | a streaming app           | react, typescript, nodeJS, express, mongoDB|
 
 
 ## which technology have i been using?  
