@@ -15,11 +15,12 @@ through the next 9 months, I developed not only code and apps but also my love f
 | :---:             |    :----:     |          :---:             |
 | **[ticketmarket](https://github.com/rivvarivvs/ticketmarket)** | a market-place to sell and buy secondhand tickets           | javascript, nodeJS, express, mongodb|
 | **[the developer's cheatsheet](https://github.com/rivvarivvs/The-Developer-s-Cheatsheet)**           | an app that allows you to post and access cheatsheets to documentation       | typescript, nodeJS, express, kubernetes, docker, github actions, digital ocean             |
+| **[streamit](https://github.com/rivvarivvs/streaming-srv)** | a small implementation of a streaming service           | react, typescript, nodeJS, express, mongoDB|
 
 #### in early development 📅 
 | 🏷️  name  | 📓  description  | ⚙️ tech-stack |
 | :---:             |    :----:     |          :---:             |
-| **[streamit](https://github.com/rivvarivvs/streaming-srv)** | a small implementation of a streaming service           | react, typescript, nodeJS, express, mongoDB|
+| **[jinder](https://github.com/rivvarivvs/jinder)** | a job finding app that will have mobile and web implementation           | nodeJS, express, mongoDB, react, react native|
 
 
 ## which technology have i been using?  
