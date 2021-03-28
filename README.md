@@ -29,6 +29,8 @@ through the next 9 months, I developed not only code and apps but also my love f
 | javascript        | git           | jest                       |
 | nodeJS            | mongoDB       | kubernetes                 |
 | express           | typescript    | docker                     |
+|            |     | react                      |
+|            |     | react native                     |
 
 ## where can you find me? 💌  
 
