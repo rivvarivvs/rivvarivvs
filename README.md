@@ -1,12 +1,11 @@
 ## riva's here! 👋 who am i?
 
-i'm a retired history student turned into a **backend web developer**, by the *magical ways of self-teaching*.
+i'm a retired history student turned into a **full-stack web developer**, by the *magical ways of self-teaching*. currently working fulltime for **[caixa mágica software](https://caixamagica.pt/)** 🙆‍♀️
 
 
 ## what is there to know about me? 📚
 
-early in my life, i developed my passion for computers and mathematical problems. soon i left them to dedicate myself to the ways of analyzing our society. it was in the last year that i decided to leave behind my school curriculum: it was then time to see if i was still as in love *with the computer world*.
-through the next 9 months, I developed not only code and apps but also my love for ***learning and the world of web development***.
+based in **Lisbon, Portugal**, i'm problem solving my way throughout the *world of web development*. some of my current tech interests include functional programming, algorithms and data structures, and diving into a second language (golang 🦦) 
 
 ## what have i done? ✨ 
 
@@ -17,20 +16,14 @@ through the next 9 months, I developed not only code and apps but also my love f
 | **[the developer's cheatsheet](https://github.com/rivvarivvs/The-Developer-s-Cheatsheet)**           | an app that allows you to post and access cheatsheets to documentation       | typescript, nodeJS, express, kubernetes, docker, github actions, digital ocean             |
 | **[streamit](https://github.com/rivvarivvs/streaming-srv)** | a small implementation of a streaming service           | react, typescript, nodeJS, express, mongoDB|
 
-#### in early development 📅 
-| 🏷️  name  | 📓  description  | ⚙️ tech-stack |
-| :---:             |    :----:     |          :---:             |
-| **[jinder](https://github.com/rivvarivvs/jinder)** | a job finding app that will have mobile and web implementation           | nodeJS, express, mongoDB, react, react native|
-
 
 ## which technology have i been using?  
 | 🧪 comfortable with  | 🤸‍♀️ had fun with  | 🖍️ shooting my first shots at |
 | :---:             |    :----:     |          :---:             |
-| javascript        | git           | jest                       |
-| nodeJS            | mongoDB       | kubernetes                 |
-| express           | typescript    | docker                     |
-|            |     | react                      |
-|            |     | react native                     |
+| javascript        | mySQL           | jest                       |
+| nodeJS            | document-oriented database       | go                 |
+| express           | typescript    |                      |
+|  react          |     |                       |
 
 ## where can you find me? 💌  
 
