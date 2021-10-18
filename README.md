@@ -1,6 +1,6 @@
 ## riva's here! 👋 who am i?
 
-i'm a retired history student turned into a **full-stack web developer**, by the *magical ways of self-teaching*. currently working fulltime for **[caixa mágica software](https://caixamagica.pt/)** 🙆‍♀️
+i'm a retired history student turned into a **full-stack web developer**, by the *magical ways of self-teaching*.
 
 
 ## what is there to know about me? 📚
