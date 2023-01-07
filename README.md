@@ -5,13 +5,13 @@ i'm a retired history student turned into a **web and ios developer**, by the *m
 
 ## what is there to know about me? 📚
 
-based in **Lisbon, Portugal**, i'm problem solving my way throughout the *world of web development*. some of my current tech interests include ios programming and algorithms and data structures
+based in **Lisbon, Portugal**, i'm problem solving my way throughout the *world of web development*
 
 
 ## which technology have i been using?  
 | 🧪 comfortable with  | 🤸‍♀️ having fun with  | 🖍️ shooting my first shots at |
 | :---:                |    :----:           |          :---:             |
-| react                | swift                  | threejs                 |
+| react                | typescript          | threejs                 |
 | react native         | nodejs              |                  |
-| redux                | typescript              |                  |
+| swift                |                     |                  |
 
